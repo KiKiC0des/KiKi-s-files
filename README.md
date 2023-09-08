@@ -5,3 +5,5 @@ i started developing bots and such not too long ago, so i still have a long way 
 i mainly make private/custom bots for servers
 
 my discord is: `keilistherealestofthereals` you can send me a friend request
+
+my server: https://discord.gg/f58uryGphA
