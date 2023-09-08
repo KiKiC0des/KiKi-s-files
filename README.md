@@ -1,5 +1,7 @@
-HEY im KiKi, you might know me as Waff but thats my old username.
+hey im kiki, im a bot developer and i code in Python, but im looking to learn javascript
 
-i make private bots for servers
+i started developing bots and such not too long ago, so i still have a long way to go
 
-you might know me from the project PurpBot :eyes:
+i mainly make private/custom bots for servers
+
+my discord is: `keilistherealestofthereals` you can send me a friend request
